@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Image Creator to Eagle
 // @namespace    https://runrunsketch.net/
-// @version      0.1.0
+// @version      1.0.0
 // @description  Image Creatorで生成した画像をEagleに登録する
 // @author       Chidori Run
 // @copyright    2025 Chidori Run
