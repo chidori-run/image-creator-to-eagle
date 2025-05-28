@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Image Creator to Eagle
 // @namespace    https://runrunsketch.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Image Creatorで生成した画像をEagleに登録する
 // @author       Chidori Run
 // @copyright    2025 Chidori Run
@@ -9,8 +9,8 @@
 // @match        https://www.bing.com/images/*
 // @grant        GM.xmlHttpRequest
 // @connect      localhost
-// @updateURL    https://github.com/chidori-run/novelai-to-eagle-browser/raw/refs/heads/main/novelai_to_eagle.user.js
-// @downloadURL  https://github.com/chidori-run/novelai-to-eagle-browser/raw/refs/heads/main/novelai_to_eagle.user.js
+// @updateURL    https://github.com/chidori-run/image-creator-to-eagle/raw/refs/heads/main/image_creator_to_eagle.user.js
+// @downloadURL  https://github.com/chidori-run/image-creator-to-eagle/raw/refs/heads/main/image_creator_to_eagle.user.js
 // ==/UserScript==
 
 (function () {
